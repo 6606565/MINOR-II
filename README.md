@@ -1,4 +1,4 @@
-# ASCII Personality Art (Python)
+# ASCII  Art (Python)
 
 ##  Project Overview
 
